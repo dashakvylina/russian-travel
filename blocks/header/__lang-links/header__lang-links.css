@@ -1,0 +1,6 @@
+.header__lang-links {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-column-gap: 18px;
+
+}
