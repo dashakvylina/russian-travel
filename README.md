@@ -7,5 +7,5 @@
 
 Чтобы открыть проект запустите файл `index.html` в браузере.
 
-Или посмотрите [демо](https://dashakvylina.github.io/russianTravelIsCool/index.html).
+Или посмотрите [демо](https://dashakvylina.github.io/russian-travel/).
 
