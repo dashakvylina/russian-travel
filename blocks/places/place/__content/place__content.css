@@ -1,6 +1,6 @@
 .place__content{
     display: flex;
-    align-items:flex-start ;
+    align-items:flex-start;
     gap: 40px;
     margin-top: 48px;
 }
